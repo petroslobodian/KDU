@@ -2,7 +2,7 @@ King Danylo University Projects
 
 This repository contains my projects implemented during my studies at King Danylo University. Here are the details of the included projects:
 
-Text-based game "Divine Game" (Python):
+Text-based game "God Game" (Python):
 A text-based adventure game developed in Python. Embark on a journey where your decisions shape the fate of your character.
 
 ASCIIArtText (Python):
@@ -15,9 +15,9 @@ The ASCII art representation of the word will be displayed using asterisk (*) ch
 Enjoy exploring and experiencing the projects!
 
 Contacts:
-Petro Slobodan
-Email: [petro.p.slobodian@ukd.edu.ua]
-Instagram: @mr.petrov4ic
+Petro Slobodan;
+Email: [petro.p.slobodian@ukd.edu.ua];
+Instagram: @mr.petrov4ic.
 
 Note: This README will be updated with the addition of new projects to the repository. Follow along for exciting creations I'll be making during my studies at King Danylo University!
 
