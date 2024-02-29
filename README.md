@@ -15,9 +15,8 @@ The ASCII art representation of the word will be displayed using asterisk (*) ch
 Enjoy exploring and experiencing the projects!
 
 Contacts:
-Petro Slobodan;
 Email: [petro.p.slobodian@ukd.edu.ua];
-Instagram: @mr.petrov4ic.
+
 
 Note: This README will be updated with the addition of new projects to the repository. Follow along for exciting creations I'll be making during my studies at King Danylo University!
 
